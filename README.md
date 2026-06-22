@@ -55,7 +55,7 @@
 | name | description | link |
 |----------|----------|--------|
 | **alanator** | архиватор на python c своим форматом .aln | [click](https://github.com/mentalnyy/alanator) |
-| **alanator-mobile** | архиватор на моб. устройства | [click](https://github.com/mentalnyy/alanator-mobile) |
+| **alanator-mobile(waiting)** | архиватор на моб. устройства | [click](https://github.com/mentalnyy/alanator-mobile) |
 
 ## 🎯 pins
 
