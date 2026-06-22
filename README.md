@@ -1,4 +1,4 @@
-<h1 align="center"> mentalnyy / experienced coder </h1>
+<h1 align="center"> mentalnyy / junior coder/developer </h1>
 
 ###
 
