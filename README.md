@@ -4,11 +4,7 @@
 
 <div align="center">
   <!-- Логотип Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <!-- Статистика -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mentalnyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mentalnyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
 </div>
 
 ###
@@ -17,15 +13,15 @@
 
 <table align="center">
   <tr>
-    <td>Всего звёзд: 1</td>
-    <td>Всего коммитов (2026): 23</td>
+    <td>⭐ Всего звёзд: 1</td>
+    <td>📝 Всего коммитов (2026): 23</td>
   </tr>
   <tr>
-    <td>Всего запросов изменений: 0</td>
-    <td>Всего вопросов: 0</td>
+    <td>🔀 Всего запросов изменений: 0</td>
+    <td>🐞 Всего вопросов: 0</td>
   </tr>
   <tr>
-    <td colspan="2">Внесено вклада (за прошлый год): 23</td>
+    <td colspan="2">📊 Внесено вклада (за прошлый год): 23</td>
   </tr>
 </table>
 
