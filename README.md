@@ -54,8 +54,8 @@
 
 | name | description | link |
 |----------|----------|--------|
-| **alanator** | архиватор с шифрованием и своим форматом .aln | [тык](https://github.com/mentalnyy/alanator) |
-| **alanator** | архиватор на android | [тык](https://github.com/mentalnyy/alanator-mobile) |
+| **alanator** | архиватор с шифрованием и своим форматом .aln | [click](https://github.com/mentalnyy/alanator) |
+| **alanator** | архиватор на android | [click](https://github.com/mentalnyy/alanator-mobile) |
 
 ## 🎯 pins
 
