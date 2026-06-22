@@ -56,10 +56,9 @@
 | name | description | link |
 |----------|----------|--------|
 | **alanator** | архиватор с шифрованием и своим форматом .aln | [тык](https://github.com/mentalnyy/alanator) |
-| **alanator-android | alanator на android | [тык](https://github.com/mentalnyy/alanator-android) |
 
-## 🎯 цели
+
+## 🎯 pins
 
 - починить aln с паролем
-- выпустить v1.0.0
 - собрать alanator для android
