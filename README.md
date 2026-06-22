@@ -1,2 +1,2 @@
-# alan.exe
-my bio
+# alan.exe / junior coder developer
+python logo
