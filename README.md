@@ -49,7 +49,6 @@
     </tr>
   </table>
 </div>
----
 
 ## 🗂️ my projects
 
