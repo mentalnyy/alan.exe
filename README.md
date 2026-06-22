@@ -45,6 +45,11 @@
     <tr>
       <td>🐞 Issues<br><b>First Issue</b><br>0pt</td>
       ---
+      <td colspan="2">📁 Repositories<br><b>Repository Creator</b><br>3pt</td>
+    </tr>
+  </table>
+</div>
+---
 
 ## 🗂️ мой проект
 
@@ -59,7 +64,3 @@
 - починить aln с паролем
 - выпустить v1.0.0
 - собрать alanator для android
-      <td colspan="2">📁 Repositories<br><b>Repository Creator</b><br>3pt</td>
-    </tr>
-  </table>
-</div>
