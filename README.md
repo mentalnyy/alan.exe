@@ -60,4 +60,13 @@
 ## 🎯 pins
 
 - починить aln с паролем
-- собрать alanator для android
+- разработать alanator для android/ios
+- 
+## 🛠️ languages & tools
+
+| language | level| status |
+|------|---------|--------|
+| python | middle | ✅ в процессе |
+| english | middle | ✅ использую |
+| javascript | none | 🔄 планирую |
+| c++ | none | 🔄 планирую |
