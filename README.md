@@ -61,7 +61,7 @@
 
 - починить aln с паролем
 - разработать alanator для android/ios
-- 
+ 
 ## 🛠️ languages & tools
 
 | language | level| status |
