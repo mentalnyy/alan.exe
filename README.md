@@ -1,23 +1,3 @@
-## 🛠️ мой стек
-
-| технология | для чего использую |
-|------------|-------------------|
-| **python** | основной язык |
-| **customtkinter** | интерфейсы |
-| **pyinstaller** | сборка exe |
-| **git / github** | хранение кода |
-
-## 📁 мои проекты
-
-| название | описание | ссылка |
-|----------|----------|--------|
-| **alanator** | архиватор с шифрованием и своим форматом .aln | [тык](https://github.com/mentalnyy/alanator) |
-
-## 🎯 цели на ближайшее время
-
-- [ ] починить aln с паролем
-- [ ] выпустить v1.0.0
-- [ ] попробовать собрать alanator для android
 
 <h1 align="center"> mentalnyy / junior coder/developer </h1>
 
@@ -64,6 +44,21 @@
     </tr>
     <tr>
       <td>🐞 Issues<br><b>First Issue</b><br>0pt</td>
+      ---
+
+## 🗂️ мой проект
+
+| название | описание | ссылка |
+|----------|----------|--------|
+| **alanator** | архиватор с шифрованием и своим форматом .aln | [тык](https://github.com/mentalnyy/alanator) |
+
+---
+
+## 🎯 цели
+
+- починить aln с паролем
+- выпустить v1.0.0
+- собрать alanator для android
       <td colspan="2">📁 Repositories<br><b>Repository Creator</b><br>3pt</td>
     </tr>
   </table>
