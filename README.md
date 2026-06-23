@@ -56,11 +56,14 @@
 |----------|----------|--------|
 | **alanator** | архиватор на python c своим форматом .aln | [click](https://github.com/mentalnyy/alanator) |
 | **alanator-mobile(waiting)** | архиватор на моб. устройства | [click](https://github.com/mentalnyy/alanator-mobile) |
-
+| **almanager** | менеджер паролей на десктопе | [click](https://github.com/mentalnyy/almanager) |
+| **AlChat(waiting)** | локальный чат | [click](https://github.com/mentalnyy/alchat) |
+| **alnayzer** | анализатор ссылок | [click](https://github.com/mentalnyy/alnayzer) |
 ## 🎯 pins
 
 - починить aln с паролем
 - разработать alanator для android/ios
+- завершить разработку всех проектов
  
 ## 🛠️ languages & tools
 
