@@ -59,6 +59,7 @@
 | **almanager** | менеджер паролей на десктопе | [click](https://github.com/mentalnyy/almanager) |
 | **AlChat(waiting)** | локальный чат | [click](https://github.com/mentalnyy/alchat) |
 | **alnayzer** | анализатор ссылок | [click](https://github.com/mentalnyy/alnayzer) |
+| **AlanPad(waiting)** | блокнот с компилятором | [click](https://github.com/mentalnyy/alanpad) |
 ## 🎯 pins
 
 - починить aln с паролем
