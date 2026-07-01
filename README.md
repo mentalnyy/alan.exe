@@ -76,3 +76,4 @@
 | english | middle | ✅ использую |
 | javascript | none | 🔄 планирую |
 | c++ | none | 🔄 планирую |
+| C# | junior | ✅ в процессе |
