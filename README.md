@@ -73,7 +73,7 @@
 | language | level| status |
 |------|---------|--------|
 | python | middle | ✅ в процессе |
-| english | middle | ✅ использую |
+| english | junior+ | ✅ использую |
 | javascript | none | 🔄 планирую |
 | c++ | none | 🔄 планирую |
 | C# | junior | ✅ в процессе |
